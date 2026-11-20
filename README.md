@@ -1,6 +1,4 @@
-تمام متن کامل `README.md` دقیقاً در یک بلوک بدون تکه‌تکه شدن:
-
-```markdown
+markdown
 # Traffic Sign Recognition
 
 A Python command-line application and computer vision pipeline for recognizing and classifying traffic signs using deep learning and Keras. Built as part of VAYDA SYSTEM infrastructure.
